@@ -5,7 +5,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Ninte Dangana";
-export const siteTitle = "Next.js Refresher Basics Website";
+export const siteTitle = "Next.js Refresher";
 
 export default function Layout({ children, home }) {
   return (
